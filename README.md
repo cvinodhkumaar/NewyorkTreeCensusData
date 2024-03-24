@@ -22,8 +22,11 @@ This project transcends mere data analysis to serve as a foundational resource f
 
 **Skills and Technologies**
 **Data Analytics:** Proficient in conducting exploratory data analysis to uncover trends, patterns, and insights from complex datasets.
+
 **Visualization:** Expertise in using Tableau to create engaging, interactive visualizations that effectively communicate findings to a diverse audience.
+
 **Urban Sustainability:** Deep understanding of urban ecology and green infrastructure, with a focus on applying data-driven approaches to solve urban environmental challenges.
+
 **Collaboration:** Demonstrated ability to collaborate with multidisciplinary teams, including volunteers, city staff, and stakeholders, to achieve project goals.
 
 **Conclusion**
