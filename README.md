@@ -33,3 +33,10 @@ This project transcends mere data analysis to serve as a foundational resource f
 This project stands as a testament to the potential of data science in transforming urban environments and promoting sustainability. By harnessing the power of data analytics and visualization, we can unlock profound insights that propel our cities towards a greener, more sustainable future.
 As I continue to explore the intersection of data science and urban sustainability, I remain committed to leveraging my skills to contribute to meaningful environmental and urban planning initiatives. I invite collaborators, researchers, and practitioners interested in urban ecology and data-driven policy-making to engage with this work, as we collectively strive to enhance the quality of life in our urban landscapes
 
+![image](https://github.com/cvinodhkumaar/NewyorkTreeCensusData/assets/164789679/4ef5a291-84c7-4d6e-ba5c-1c2ade6b347e)
+![image](https://github.com/cvinodhkumaar/NewyorkTreeCensusData/assets/164789679/6fce8c34-42ce-44eb-bd9b-0f769a6dbe00)
+![image](https://github.com/cvinodhkumaar/NewyorkTreeCensusData/assets/164789679/437d3218-0006-4b4a-a365-0a2985ff033e)
+![image](https://github.com/cvinodhkumaar/NewyorkTreeCensusData/assets/164789679/14c2b684-dc99-450e-8c18-56bdd655d51b)
+
+
+
